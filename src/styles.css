@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+    width: 600px;
+    justify-content: space-between;
+    
+
+}
+#searchCountry{
+    width: 600px;
+    height: 40px;
+}
+h2{
+    width: 600px;
+    text-align: center;
+    font-size: 30px;
+}
+#searchCountry{
+    font-size: 20px;
+}
+h4{
+    font-size:25px;
+    font-weight: bold;
+}
+span, .lang-item, .country-list{
+    font-size:25px;
+    font-weight: normal;
+}
+
+    
